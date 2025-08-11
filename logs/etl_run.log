@@ -1,0 +1,25 @@
+2025-08-07 13:35:56,706 - INFO - ETL job started.
+2025-08-07 13:35:56,822 - ERROR - ETL job failed with error: 1045 (28000): Access denied for user 'your_mysql_user'@'localhost' (using password: YES)
+2025-08-07 13:36:54,832 - INFO - ETL job started.
+2025-08-07 13:36:54,900 - ERROR - ETL job failed with error: 1045 (28000): Access denied for user 'your_mysql_user'@'localhost' (using password: YES)
+2025-08-07 13:40:56,288 - INFO - ETL job started.
+2025-08-07 13:40:56,540 - INFO - Found credentials in environment variables.
+2025-08-07 13:40:57,236 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-03/transactions.parquet
+2025-08-07 13:40:57,348 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-04/transactions.parquet
+2025-08-07 13:40:57,456 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-05/transactions.parquet
+2025-08-07 13:40:57,573 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-06/transactions.parquet
+2025-08-07 13:40:57,685 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-07/transactions.parquet
+2025-08-07 13:40:57,685 - INFO - ETL job completed successfully.
+2025-08-08 13:41:00,534 - INFO - ETL job started.
+2025-08-08 13:41:01,203 - INFO - Found credentials in environment variables.
+2025-08-08 13:41:02,302 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-03/transactions.parquet
+2025-08-08 13:41:02,413 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-04/transactions.parquet
+2025-08-08 13:41:02,524 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-05/transactions.parquet
+2025-08-08 13:41:02,633 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-06/transactions.parquet
+2025-08-08 13:41:02,739 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-07/transactions.parquet
+2025-08-08 13:41:02,858 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-08/transactions.parquet
+2025-08-08 13:41:02,970 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-09/transactions.parquet
+2025-08-08 13:41:03,083 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-10/transactions.parquet
+2025-08-08 13:41:03,194 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-11/transactions.parquet
+2025-08-08 13:41:03,297 - INFO - Uploaded 10 records to s3://my-etl-raw-bucket1/raw/2025-08-12/transactions.parquet
+2025-08-08 13:41:03,297 - INFO - ETL job completed successfully.
